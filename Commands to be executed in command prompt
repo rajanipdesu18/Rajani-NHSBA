@@ -1,0 +1,6 @@
+
+Below are the commands to be exceuted in the command prompt, in order to run the scripts.
+
+$ mvn clean
+$ mvn compile
+$ mvn test

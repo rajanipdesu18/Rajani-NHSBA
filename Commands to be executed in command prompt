@@ -1,6 +1,6 @@
 
 Below are the commands to be exceuted in the command prompt, in order to run the scripts.
-
+$ cd "to the path where the project has been saved"   //Need to change to the path where the project is located.
 $ mvn clean
 $ mvn compile
 $ mvn test
